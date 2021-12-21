@@ -26,7 +26,7 @@ Para utilizar aplicação siga as intruções abaixo:
 * Para utilizar seu celular como emulador, baixe o aplicativo EXPO GO na Play Store
 * Após baixar o aplicativo EXPO GO, scaneie em seu celular o QRCODE gerado após rodar o comando expo start em sua máquina
 
-### Telas
+## Telas
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/62814299/146869633-7f853a32-c1a3-43c8-a290-1245d809ed2d.png"/>
@@ -45,4 +45,5 @@ Para utilizar aplicação siga as intruções abaixo:
 * Obs: Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## Autor
+<img src="https://user-images.githubusercontent.com/62814299/146869967-b2cdcc83-526e-465b-9c56-6e4e028b5116.jpg" width="200px"/>
 [Valter Santos](https://github.com/svalter)
