@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Login </h1>
+  <h1>Login - React Native com Expo </h1>
 </div>
 
 # 😄:  Olá!<br/>
@@ -12,7 +12,7 @@ O projeto desenvolvido foi para fim de estudos. Neste projeto aprendi:
 
 ## 🚀 Tecnologias:
 Este projeto foi desenvolvido com as seguintes tecnologias:
-* [React](https://pt-br.reactjs.org/)
+* [React Native](https://reactnative.dev/docs/getting-started)
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
