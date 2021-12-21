@@ -36,6 +36,14 @@ Para utilizar aplicação siga as intruções abaixo:
   <img src="https://user-images.githubusercontent.com/62814299/146869673-addeddee-acb0-45a9-9bfe-38248b9c2df8.png"/>
   <img src="https://user-images.githubusercontent.com/62814299/146869675-5786616e-35ed-4ebd-849f-dab323fa7ae5.png"/>
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/62814299/146870302-d1d6880a-8b43-48ac-b531-0a8495f11121.png"/>
+  <img src="https://user-images.githubusercontent.com/62814299/146870347-4b83db64-749b-445a-a35f-1edeebe01d87.png"/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/62814299/146870349-a75722fc-8481-4b28-a81c-a5edee7ad68b.png"/>
+  <img src="https://user-images.githubusercontent.com/62814299/146870356-1020c274-3b98-4ab7-babb-dc17bf7f5b6a.png"/>
+</div>
 
 ## :smiley: Como contribuir:
 * Faça um fork desse repositório,
