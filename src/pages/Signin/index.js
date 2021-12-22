@@ -31,20 +31,20 @@ export default function Signin() {
             
                 <InputArea>
                 <Input
-                    placeholderColor="#768589"
+                    placeholderColor="#530BAA"
                     placeholder="Entre com seu e-mail" />
-                    <Icon name="mail-outline" color="#768589" size={30} />
+                    <Icon name="mail-outline" color="#AEBCC3" size={30} />
                 </InputArea>
                 <InputArea>
                     <Input
-                        placeholderColor="#768589"
+                        placeholderColor="#530BAA"
                         placeholder="Entre com sua senha"
                         value={senha}
                         onChangeText={(texto) => setSenha(texto)}
                         secureTextEntry={showSenha} />
 
                     <TouchableOpacity onPress={() => setShowSenha(!showSenha)}>
-                        <Icon name={showSenha ? 'ios-eye' : 'ios-eye-off'}color="#768589" size={30} />
+                        <Icon name={showSenha ? 'ios-eye' : 'ios-eye-off'}color="#AEBCC3" size={30} />
                     </TouchableOpacity>
                 </InputArea>
                 <Submit>

@@ -5,12 +5,11 @@ export const KeyboardView = styled.KeyboardAvoidingView`
     flex:1;
     align-items:center;
     justify-content:center;
-    background: #404648;
+    background: #530BAA;
 `
 export const Title = styled.Text`
-    color:#00E68F;
-    font-weight:bold;
-    font-size:20px;
+    color:#DFEAF0;
+    font-size:15px;
     margin: 0 0 20px 0;
 `
 export const Container = styled.View`
@@ -37,10 +36,10 @@ export const Input= styled.TextInput`
     color: #404648;
 `
 export const Submit = styled.TouchableOpacity`
-    background: #00E68F;
+    background: #38BEAC;
     border-radius: 10px;
     width: 100%;
-    height: 50px;
+    height: 55px;
     align-items:center;
     justify-content:center;
 `
