@@ -33,7 +33,6 @@ Para utilizar aplicação siga as intruções abaixo:
   <img src="https://user-images.githubusercontent.com/62814299/147168716-3fe29e69-d093-4bdb-ad3d-bcec0880ed9f.png"/>
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/62814299/147168718-d6c23959-cef4-4f78-a385-d0daf824a7f0.png"/>
   <img src="https://user-images.githubusercontent.com/62814299/147168722-c49772f3-bb2e-4a46-b8f6-be05b1b8ab0d.png"/>
 </div>
 
