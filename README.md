@@ -29,20 +29,12 @@ Para utilizar aplicação siga as intruções abaixo:
 ## Telas
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/62814299/146869633-7f853a32-c1a3-43c8-a290-1245d809ed2d.png"/>
-  <img src="https://user-images.githubusercontent.com/62814299/146869669-57b432e0-62de-4ef8-bc5f-106d1c4afbbb.png"/>
+  <img src="https://user-images.githubusercontent.com/62814299/147168715-4966315e-6286-49a5-ac65-756fc59bf5be.png"/>
+  <img src="https://user-images.githubusercontent.com/62814299/147168716-3fe29e69-d093-4bdb-ad3d-bcec0880ed9f.png"/>
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/62814299/146869673-addeddee-acb0-45a9-9bfe-38248b9c2df8.png"/>
-  <img src="https://user-images.githubusercontent.com/62814299/146869675-5786616e-35ed-4ebd-849f-dab323fa7ae5.png"/>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/62814299/146870302-d1d6880a-8b43-48ac-b531-0a8495f11121.png"/>
-  <img src="https://user-images.githubusercontent.com/62814299/146870347-4b83db64-749b-445a-a35f-1edeebe01d87.png"/>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/62814299/146870349-a75722fc-8481-4b28-a81c-a5edee7ad68b.png"/>
-  <img src="https://user-images.githubusercontent.com/62814299/146870356-1020c274-3b98-4ab7-babb-dc17bf7f5b6a.png"/>
+  <img src="https://user-images.githubusercontent.com/62814299/147168718-d6c23959-cef4-4f78-a385-d0daf824a7f0.png"/>
+  <img src="https://user-images.githubusercontent.com/62814299/147168722-c49772f3-bb2e-4a46-b8f6-be05b1b8ab0d.png"/>
 </div>
 
 ## :smiley: Como contribuir:
