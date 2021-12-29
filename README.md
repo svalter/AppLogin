@@ -27,13 +27,11 @@ Para utilizar aplicação siga as intruções abaixo:
 * Após baixar o aplicativo EXPO GO, scaneie em seu celular o QRCODE gerado após rodar o comando expo start em sua máquina
 
 ## Telas
+https://user-images.githubusercontent.com/62814299/147617999-c7ebcfe4-f989-4a6c-b402-45ccc7be42c1.mp4
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/62814299/147168715-4966315e-6286-49a5-ac65-756fc59bf5be.png"/>
   <img src="https://user-images.githubusercontent.com/62814299/147168716-3fe29e69-d093-4bdb-ad3d-bcec0880ed9f.png"/>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/62814299/147168722-c49772f3-bb2e-4a46-b8f6-be05b1b8ab0d.png"/>
 </div>
 
 ## :smiley: Como contribuir:
