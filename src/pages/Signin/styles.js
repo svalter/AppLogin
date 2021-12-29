@@ -29,7 +29,6 @@ export const InputArea = styled.View`
     border: 1px solid #768589;
     align-items: center;
 `
-
 export const Input= styled.TextInput`
     width: 85%;
     padding: 15px 10px;
@@ -43,7 +42,6 @@ export const Submit = styled.TouchableOpacity`
     align-items:center;
     justify-content:center;
 `
-
 export const TextButtonSubmit = styled.Text`
     color: #FFF;
     font-weight:bold ;
